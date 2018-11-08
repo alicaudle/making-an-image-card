@@ -9,7 +9,7 @@ html {
 
 .img-flex {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 .card {
@@ -21,6 +21,7 @@ html {
 .card-body {
   padding: .2rem .1rem;
 }
+
 .card-title {
   margin: 0;
   padding: 3rem 1rem;
@@ -40,5 +41,5 @@ html {
 }
 
 .card-head {
-  position:relative;
+  position: relative;
 }
